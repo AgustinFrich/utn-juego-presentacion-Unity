@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992063601641",
+    "project_id": "utn-juego-presentacion-e176a",
+    "storage_bucket": "utn-juego-presentacion-e176a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992063601641:android:c8822a394dfdb7ac1da978",
+        "android_client_info": {
+          "package_name": "com.utn.juegofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCHnEtjU6t_dmFjT12HY3i1w_DqCNzMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
